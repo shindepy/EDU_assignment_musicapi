@@ -1,0 +1,17 @@
+.artist {
+    border: 1px solid green;
+    
+    float:left;
+  
+    padding: 2px;
+    margin-bottom:5px;
+}
+.album {
+    
+   
+    float: left;
+    margin-bottom: 1px;
+    padding: 2px;
+    margin-top: 5px;
+ 
+}
